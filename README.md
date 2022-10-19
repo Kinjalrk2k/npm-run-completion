@@ -8,6 +8,10 @@ npm run <kbd>Tab</kbd>
 
 ## Installation
 
+> IMPORTANT!
+> Please install `jq` before using this script (if not already present in your system)
+> https://stedolan.github.io/jq/
+
 ### Through the command line
 
 ```sh
