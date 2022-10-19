@@ -2,6 +2,8 @@
 
 Add npm run scripts to your shell
 
+npm run <kbd>Tab</kbd>
+
 ![example](./images/example.gif)
 
 ## Installation
